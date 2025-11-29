@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1357.3334
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 37
+  controlID: 47
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 38
+  controlID: 48
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 39
+  controlID: 49
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -326,7 +326,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/3D_Content/heap_constr
+    - Assets/3D_Content
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -336,16 +336,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/3D_Content/heap_constr
+  - Assets/3D_Content
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\user\Downloads\Winter_university_2025\VR project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 44.666626}
-    m_SelectedIDs: a48b0000
-    m_LastClickedID: 35748
-    m_ExpandedIDs: 00000000e2840000e48400003885000000ca9a3b
+    scrollPos: {x: 0, y: 108.666626}
+    m_SelectedIDs: 22880000
+    m_LastClickedID: 34850
+    m_ExpandedIDs: 000000001e880000208800002288000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -374,7 +374,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e2840000e4840000
+    m_ExpandedIDs: 000000001e8800002088000022880000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -469,7 +469,7 @@ MonoBehaviour:
     m_ContainerData: []
     m_OverlaysVisible: 1
   m_ObjectsLockedBeforeSerialization:
-  - {fileID: 2100000, guid: a2e0fc35d6df2fe40bcb508cd11b1e14, type: 2}
+  - {fileID: 2100000, guid: 80b625ed67ca31e4998d38161d568ac2, type: 2}
   m_InstanceIDsLockedBeforeSerialization: 
   m_PreviewResizer:
     m_CachedPref: 160
@@ -520,10 +520,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 64}
-      m_SelectedIDs: e8ddffff
-      m_LastClickedID: -8728
-      m_ExpandedIDs: f8c0ffffecddffff0adeffffb2faffff
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: e4f8ffff
+      m_LastClickedID: -1820
+      m_ExpandedIDs: 3286ffffb0f8ffff84f9ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -917,9 +917,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 19.013245, y: -5.2610893, z: 27.992983}
+    m_Target: {x: -6.3891993, y: -0.66434664, z: -19.48338}
     speed: 2
-    m_Value: {x: 19.013245, y: -5.2610893, z: 27.992983}
+    m_Value: {x: -6.3891993, y: -0.66434664, z: -19.48338}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -965,20 +965,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.16621137, y: -0.5867822, z: 0.124219574, w: -0.7828212}
+    m_Target: {x: 0.0044136927, y: -0.99143165, z: 0.033711154, w: 0.1271267}
     speed: 2
-    m_Value: {x: -0.1663206, y: -0.5859467, z: 0.124042206, w: -0.78333735}
+    m_Value: {x: 0.0043794257, y: -0.9914325, z: 0.033711273, w: 0.12611926}
   m_Size:
-    m_Target: 10.676991
+    m_Target: 21.48907
     speed: 2
-    m_Value: 10.2172165
+    m_Value: 22.501644
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 0.88056
-    m_SpeedNormalized: 0.44
+    m_Speed: 1.06047
+    m_SpeedNormalized: 0.53
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
