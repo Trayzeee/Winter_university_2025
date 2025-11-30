@@ -1,0 +1,19 @@
+# Visual Studio and Rider
+[Bb]in/
+[Oo]bj/
+*.sln
+*.csproj
+*.unityproj
+
+# Build directories
+Builds/
+Build/
+Temp/
+
+# Unity specific ignores
+Library/
+Logs/
+MemoryCaptures/
+
+# User-specific
+*.userprefs
