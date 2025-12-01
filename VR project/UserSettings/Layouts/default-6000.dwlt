@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1357.3334
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 40
+  controlID: 47
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 41
+  controlID: 48
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 42
+  controlID: 49
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -301,7 +301,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 1154.6667
+    y: 1100
     width: 2073.6667
     height: 199.33337
   m_SerializedDataModeController:
@@ -326,7 +326,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/3D_Content
+    - Assets/3D_Content/wall decails
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -336,16 +336,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/3D_Content
+  - Assets/3D_Content/wall decails
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\user\Downloads\Winter_university_2025\VR project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 143}
-    m_SelectedIDs: 5c8e0000
-    m_LastClickedID: 36444
-    m_ExpandedIDs: 00000000588e00005a8e00005c8e000000ca9a3b
+    scrollPos: {x: 0, y: 412.66663}
+    m_SelectedIDs: 728f0000
+    m_LastClickedID: 36722
+    m_ExpandedIDs: 000000005e8e0000608e0000628e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -374,7 +374,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000588e00005a8e00005c8e0000
+    m_ExpandedIDs: 000000005e8e0000608e0000628e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -428,7 +428,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 54.666626}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
@@ -453,8 +453,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 2074.6667
-    y: 78.66667
+    x: 2075.6667
+    y: 24
     width: 484.33325
     height: 1275.3334
   m_SerializedDataModeController:
@@ -504,7 +504,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 78.66667
+    y: 24
     width: 364.33334
     height: 1050
   m_SerializedDataModeController:
@@ -569,8 +569,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 365.33334
-    y: 78.66667
+    x: 366.33334
+    y: 24
     width: 1707.3334
     height: 1050
   m_SerializedDataModeController:
@@ -917,9 +917,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -10.515198, y: -16.954773, z: 27.945955}
+    m_Target: {x: -11.27545, y: -18.602127, z: 20.067467}
     speed: 2
-    m_Value: {x: -10.515198, y: -16.954773, z: 27.945955}
+    m_Value: {x: -11.27545, y: -18.602127, z: 20.067467}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -965,13 +965,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.33675668, y: -0.48217762, z: 0.20731461, w: 0.7819273}
+    m_Target: {x: 0.32597408, y: -0.57621235, z: 0.2678841, w: 0.70017743}
     speed: 2
-    m_Value: {x: 0.3378534, y: -0.4832534, z: 0.20892492, w: 0.78017414}
+    m_Value: {x: -0.32597405, y: 0.5762123, z: -0.2678841, w: -0.70017743}
   m_Size:
-    m_Target: 17.140837
+    m_Target: 21.32099
     speed: 2
-    m_Value: 17.140837
+    m_Value: 21.32099
   m_Ortho:
     m_Target: 0
     speed: 2
