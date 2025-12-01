@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1357.3334
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 41
+  controlID: 36
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -93,7 +93,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 365.33334
+    width: 398
     height: 1076
   m_MinSize: {x: 201, y: 226}
   m_MaxSize: {x: 4001, y: 4026}
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 42
+  controlID: 37
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 43
+  controlID: 38
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -267,9 +267,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 365.33334
+    x: 398
     y: 0
-    width: 1709.3334
+    width: 1676.6667
     height: 1076
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
@@ -326,7 +326,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/3D_Content/vorota
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -336,16 +336,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/3D_Content/vorota
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\user\Downloads\Project\Winter_university_2025\VR project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 252.66663}
-    m_SelectedIDs: 60900000
-    m_LastClickedID: 36960
-    m_ExpandedIDs: 00000000a88f0000aa8f0000ac8f000000ca9a3bffffff7f
+    m_SelectedIDs: bcbc0000
+    m_LastClickedID: 48316
+    m_ExpandedIDs: 00000000ca9f0000cc9f000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -374,7 +374,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a88f0000aa8f0000ac8f0000
+    m_ExpandedIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -468,8 +468,7 @@ MonoBehaviour:
     m_SaveData: []
     m_ContainerData: []
     m_OverlaysVisible: 1
-  m_ObjectsLockedBeforeSerialization:
-  - {fileID: 2100000, guid: 80b625ed67ca31e4998d38161d568ac2, type: 2}
+  m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
   m_PreviewResizer:
     m_CachedPref: 160
@@ -480,7 +479,7 @@ MonoBehaviour:
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
-    m_IsLocked: 1
+    m_IsLocked: 0
   m_PreviewWindow: {fileID: 0}
 --- !u!114 &14
 MonoBehaviour:
@@ -505,7 +504,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 78.66667
-    width: 364.33334
+    width: 397
     height: 1050
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -521,23 +520,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 1efbffff
+      m_SelectedIDs: 82b60000a0af0000c4b00000fab50000f6b60000acb70000c0ac00006cb500003eb30000d422ffff3211faffc6f2f9ffa6f1f9ff36cef9ff34cef9ff32cef9ff22cdf9ff20cdf9ff1ecdf9ff1ccdf9ff78caf9ff76caf9ff5cbbf9ff5abbf9ff58bbf9ff1abbf9ff18bbf9ff16bbf9ff1cbbf9ff1ebbf9ff20bbf9ff52bbf9ff54bbf9ff56bbf9ff22bbf9ff24bbf9ff4abbf9ff4cbbf9ff4ebbf9ff50bbf9ff26bbf9ff28bbf9ff2abbf9ff2cbbf9ff46bbf9ff48bbf9ff2ebbf9ff30bbf9ff32bbf9ff34bbf9ff42bbf9ff44bbf9ff36bbf9ff38bbf9ff3abbf9ff3cbbf9ff3ebbf9ff40bbf9ff28c9f9ff26c9f9ff20c8f9ff1ec8f9ff1cc8f9ff1ac8f9ff18c8f9ff16c8f9ff24c9f9ff22c9f9ff20c9f9ff1ec9f9ff74caf9ff72caf9ff70caf9ff6ecaf9ff1acdf9ff18cdf9ff30cef9ff2ecef9ff2ccef9ffdaf0f9ffeaeff9ffbeeef9ff2cd9f9ff40d8f9ffe6d7f9ff80d7f9ff0ed7f9ff40b8f9ff42b8f9fffe9ff9ff00a0f9ff02a0f9ff389ff9ff3a9ff9ffdc9df9ffde9df9ff0a9df9ff0c9df9ffd29bf9ffd49bf9ff249bf9ff269bf9ff469af9ff7499f9ff7699f9ff7898f9ff7a98f9ff7c98f9ffb097f9ff3a8df9ff788df9ff7a8df9ff728df9ff748df9ff768df9ff3c8df9ff6e8df9ff708df9ff3e8df9ff6a8df9ff6c8df9ff408df9ff668df9ff688df9ff428df9ff628df9ff648df9ff448df9ff5e8df9ff608df9ff468df9ff5a8df9ff5c8df9ff488df9ff568df9ff588df9ff508df9ff528df9ff548df9ff4a8df9ff4c8df9ff4e8df9ffb297f9ffb497f9ff7899f9ff4a9af9ff289bf9ffd69bf9ff0e9df9ffe09df9ff3c9ff9ff46b8f9ff
+      m_LastClickedID: -411578
+      m_ExpandedIDs: fad5f8ff5c62f9ffce62f9ff0263f9ffb663f9ff6a64f9ff9e64f9ffa264f9ff3a65f9ff3e65f9ff3e34feffda80ffffe889ffff988affff9299ffff809cffff70a1000086b30000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Directional Light
+        m_OriginalName: Directional Light
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 46722
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 4}
@@ -569,9 +568,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 365.33334
+    x: 398
     y: 78.66667
-    width: 1707.3334
+    width: 1674.6667
     height: 1050
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -917,9 +916,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 13.064551, y: -10.500853, z: 10.340618}
+    m_Target: {x: 2.5391235, y: -33.147335, z: 40.284157}
     speed: 2
-    m_Value: {x: 13.064551, y: -10.500853, z: 10.340618}
+    m_Value: {x: 2.5391235, y: -33.147335, z: 40.284157}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -965,20 +964,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.15515172, y: -0.6119948, z: 0.124129914, w: -0.7656664}
+    m_Target: {x: -0.21377999, y: -0.5543414, z: 0.1497215, w: -0.7905506}
     speed: 2
-    m_Value: {x: 0.15515172, y: 0.6119948, z: -0.124129914, w: 0.7656664}
+    m_Value: {x: -0.21388865, y: -0.5534446, z: 0.14947903, w: -0.79095304}
   m_Size:
-    m_Target: 21.48907
+    m_Target: 173.12883
     speed: 2
-    m_Value: 21.48907
+    m_Value: 181.28673
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1.1204399
-    m_SpeedNormalized: 0.55999994
+    m_Speed: 0.060969945
+    m_SpeedNormalized: 0.029999973
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -1128,9 +1127,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 504
-    width: 1171.8
-    height: 266
+    y: 1154.6667
+    width: 2073.6667
+    height: 199.33337
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
